@@ -14,7 +14,7 @@ import { getDirname, path } from '@vuepress/utils'
 const __dirname = getDirname(import.meta.url)
 
 export default defineUserConfig({
-    base: '/crazy-pr.github.io/',
+    base: '/',
     lang: 'zh-CN',
     title: 'mosowe@vuepress3',
     description: 'mosowe的个人积累',
