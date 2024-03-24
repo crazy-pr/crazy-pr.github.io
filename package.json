@@ -7,7 +7,8 @@
     "del": "cd docs/.vuepress/ && rd/s/q .cache && rd/s/q .temp",
     "nav": "node ./utils/creatNav.js",
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "deploy":"bash deploy.sh"
   },
   "author": "mosowe",
   "license": "ISC",
