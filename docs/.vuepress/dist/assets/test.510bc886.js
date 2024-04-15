@@ -1,0 +1,1 @@
+import{_ as t,r as o,o as n,c,d as r,w as s,b as a}from"./app.09ba1445.js";const _={};function l(d,f){const e=o("el-button");return n(),c("div",null,[r(e,{type:"primary"},{default:s(()=>[a("按钮1234")]),_:1})])}const u=t(_,[["render",l],["__file","test.vue"]]);export{u as default};
